@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: betiniawara842/my-website
+      - image: betiniawara842/kubernetes1
         name: flaskdemo
         resources: {}
 status: {}
